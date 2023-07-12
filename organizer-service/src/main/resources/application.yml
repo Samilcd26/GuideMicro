@@ -1,0 +1,8 @@
+spring:
+  thymeleaf:
+    check-template: false
+  application:
+    name: organizer-service
+
+server:
+  port: 8000
